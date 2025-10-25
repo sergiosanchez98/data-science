@@ -50,7 +50,7 @@ This performance is close to Kaggle's official baseline models and shows that ev
 ---
 
 ## Repository Structure
-titanic-ml/
+titanic-ml/                                                                   \
 │── notebooks/                                                                \
 │ └── TITANIC NOTEBOOK.ipynb               # Full EDA + modeling pipeline     \
 │ └── train.csv                                                               \ 
