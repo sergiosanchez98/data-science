@@ -42,6 +42,13 @@ This performance is close to Kaggle's official baseline models and shows that ev
 
 ---
 
+## Key Takeaways
+- Demonstrated the ability to handle a complete data science workflow from scratch.  
+- Validated multiple ML models and understood their strengths/limitations.  
+- Achieved a strong Kaggle score **on the very first project**.  
+
+---
+
 ## Repository Structure
 titanic-ml/
 │── notebooks/
@@ -54,14 +61,5 @@ titanic-ml/
 
 ---
 
-## Key Takeaways
-- Demonstrated the ability to handle a complete data science workflow from scratch.  
-- Validated multiple ML models and understood their strengths/limitations.  
-- Achieved a strong Kaggle score **on the very first project**.  
-
-This project is the foundation of my **Data Analytics Portfolio**, showing not only technical skills but also my **growth potential** and **capacity to deliver results** in real-world challenges.
-
----
-
 Author: Sergio Sánchez  
-Year: 2025
+
