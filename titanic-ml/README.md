@@ -49,17 +49,5 @@ This performance is close to Kaggle's official baseline models and shows that ev
 
 ---
 
-## Repository Structure
-titanic-ml/\
-│── notebooks/\
-│ └── TITANIC NOTEBOOK.ipynb\
-| └── train.csv\ 
-│ └── test.csv\ 
-│── submissions/\
-│ └── submission_gb_thr040.csv\
-│── README.md                 
-
----
-
 Author: Sergio Sánchez  
 
