@@ -53,7 +53,7 @@ This performance is close to Kaggle's official baseline models and shows that ev
 titanic-ml/                                                                   \
 │── notebooks/                                                                \
 │ └── TITANIC NOTEBOOK.ipynb               # Full EDA + modeling pipeline     \
-│ └── train.csv                                                               \ 
+| └── train.csv                                                               \ 
 │ └── test.csv                                                                \ 
 │── submissions/                                                              \
 │ └── submission_gb_thr040.csv             # Final Kaggle submission          \
