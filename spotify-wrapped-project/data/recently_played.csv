@@ -1,0 +1,51 @@
+played_at,track_id,track_name,artist_names,album_name,duration_ms,explicit,popularity
+2025-12-01T22:06:26.175Z,4fZj0uoOsTwAgSyHLL9xbV,0640,Kidd Keo,Old Times in Gotham,112725,True,35
+2025-12-01T22:04:33.184Z,79X7BhWIBGSjChXPjkJcvQ,HOPE (with Kidd Keo),"TALE$, Kidd Keo",HOPE (with Kidd Keo),159076,False,54
+2025-12-01T22:01:53.363Z,2wIoxC17DLeB3zinoQykmX,Stress,Kidd Keo,Stress,187951,True,38
+2025-12-01T21:58:40.674Z,4jaNOoKNuh8UejoZQRm0OZ,Triple Six,Hoke,TRES CREUS,126956,True,51
+2025-12-01T21:14:06.248Z,1gcTe8hDGX9FNLUHAP4XQG,Nos Creíamos Kies,"Hoke, Morad",TRES CREUS,212389,True,49
+2025-12-01T21:09:59.024Z,6hoL4fXgmGwSsCRRbk77Cn,Masa Madre,Hoke,TRES CREUS,126315,True,51
+2025-12-01T21:07:57.684Z,30QvxRsCWIuH6MhAcpxDc6,Infrarrojo / Ultravioleta,Hoke,TRES CREUS,143505,True,56
+2025-12-01T21:05:28.650Z,2ShEngDMH3Y4ZQCnUNxz6F,Aimbot,Hoke,TRES CREUS,103225,True,50
+2025-12-01T21:04:04.715Z,2KQSt2Z1pMvKb2Y6CLqJIt,Empezamos,ToteKing,Un Tipo Cualquiera,185689,False,27
+2025-12-01T21:00:06.753Z,5S3Y12ouNYbYLHbHJ5PnB8,Escuela,"Hard GZ, Lil GZ, ToteKing",Versus,209536,True,33
+2025-12-01T20:50:26.220Z,2dq2yb8Vgu2c1MalQbtxQr,96ERS,"Hoke, Atari Hanzo",96ERS,137142,False,48
+2025-12-01T20:48:05.715Z,2dxrkzl2Ln0LXOV1mgsPTn,Souvenir,"Ill Pekeño, Ergo Pro",San Cucufato,216263,False,33
+2025-12-01T20:44:28.975Z,7v90MSixfHdG1HSdEqvDSx,Social Drive,"Ergo Pro, Ill Pekeño, ToteKing, Tensei One",Social Drive,271648,True,32
+2025-12-01T20:39:56.857Z,1EvcBvh2Plk4o8nPe9E8Ay,Ill Pekeño - Fugitivo Vol. 11,"Rico Rosa, Ill Pekeño",FUGITIVO (SEASON 1),113913,True,46
+2025-12-01T20:37:16.226Z,51kzHiwV2gqYOakB0HGh8d,Desamparados,"Hoke, Louis Amoeba, Ergo Pro, Ill Pekeño",BBO,197333,False,50
+2025-12-01T20:33:58.544Z,2MfRoOTI1DAytAPqxOe33E,Navajas y Percebes 2,"Ill Pekeño, Tensei One, Ergo Pro",Navajas y Percebes 2,236234,False,41
+2025-12-01T20:30:01.628Z,5NSa7rN6IQEiYFJYVbD0GW,Souvenir 2,"Ergo Pro, Ill Pekeño, Sabiobeats",Dogma,210666,True,37
+2025-12-01T20:26:31.116Z,42SLXbOGY9PO3mEujah5Zo,ISSEY MIYAKE,Cruz Cafuné,VISIÓN TÚNEL,250234,True,55
+2025-12-01T20:22:19.675Z,5roeWMIvj2Mfz2JfTy6wUS,Normal,"Israel B, Ergo Pro, Ill Pekeño, LOWLIGHT",Galerias Deva,151529,True,33
+2025-12-01T20:19:48.436Z,7iqLluwurbhIuEkJO3vF9K,El Papasito (feat. Cookin Soul),"Yung Beef, Cookin Soul",Grandes Clasicos,155233,True,52
+2025-12-01T20:15:57.267Z,0Z8zGQbwwTtYve12qwpiEN,The Lox,"ToteKing, Ill Pekeño, Ergo Pro, Titó",THE KINGTAPE,247942,True,39
+2025-12-01T20:11:38.115Z,5M2jcrQCG7eQ645X4ub2ph,Navajas y Percebes,"Ill Pekeño, Tensei One, Wöyza",Navajas y Percebes,216521,True,35
+2025-12-01T20:07:19.372Z,2SY94pUakxAbV2HETvEm2E,Riquelme & Okocha,"Ergo Pro, Ill Pekeño, Gese Da O",Ópera Fidelio,181807,True,43
+2025-12-01T20:04:14.696Z,1HbD8y7AosPbV8s9PzJXXT,Calle Cortada,"Ill Pekeño, Ergo Pro, Hoke",Av. Rafaela Ybarra,198620,True,46
+2025-12-01T20:00:56.141Z,6Qf2F12qKBCves68Syi0Id,Splinter Cell,"Ill Pekeño, Ergo Pro",Av. Rafaela Ybarra,201098,True,33
+2025-12-01T19:57:27.790Z,7v6se3p5zqgo1qIZmUKXUl,341 Lords,"Ill Pekeño, Israel B",Av. Rafaela Ybarra,199450,True,34
+2025-12-01T19:54:08.843Z,0XjOq3rBrPNDGYxny1sbpf,AMG,"Ill Pekeño, Ergo Pro",Av. Rafaela Ybarra,196363,True,30
+2025-12-01T19:50:09.645Z,43AoZy5HQaSGv6yiid4gL1,Tierra Abatida,"Ill Pekeño, Ergo Pro",Av. Rafaela Ybarra,167346,True,18
+2025-12-01T19:47:21.436Z,4VVF8LZLbTb2r4xM1B0BYX,Av. Rafaela Ybarra,"Ill Pekeño, Ergo Pro",Av. Rafaela Ybarra,171428,True,41
+2025-12-01T19:42:15.344Z,20s0UsRjtPkztALN9oA4Yw,M.A.N.,"Hoke, Ébano, Ergo Pro",TRES CREUS,193714,True,49
+2025-12-01T19:39:01.192Z,4x4zGJYBa39QEkc1KTgqtc,ABC,"Hoke, Quevedo",TRES CREUS,181739,True,55
+2025-12-01T19:36:07.352Z,4x4zGJYBa39QEkc1KTgqtc,ABC,"Hoke, Quevedo",TRES CREUS,181739,True,55
+2025-12-01T19:35:37.439Z,4Tl2xCPiMb9ne9Yv07kicG,Comité de Olvidados,"935, Natos y Waor, Recycled J",Reload,309054,True,34
+2025-12-01T19:24:27.619Z,4VVF8LZLbTb2r4xM1B0BYX,Av. Rafaela Ybarra,"Ill Pekeño, Ergo Pro",Av. Rafaela Ybarra,171428,True,41
+2025-12-01T18:17:37.688Z,6oHtFAkyIALNMurODCjfB0,Critical,Natos y Waor,Por la Jeta,150883,False,42
+2025-12-01T17:26:27.778Z,7goNokqnMTFjR9yClO2b5s,Dale gas,Natos y Waor,Por la Jeta,183771,False,36
+2025-12-01T17:23:25.037Z,4u0sSLfwnDKb9Wto408pRl,Por la jeta,"Natos y Waor, El Dave",Por la Jeta,191320,False,42
+2025-12-01T17:20:03.496Z,5gEUDNQvoQjdjklrwPdGwD,Párteme La Cara,"C. Tangana, Ed Maverick",El Madrileño,167866,False,64
+2025-12-01T16:40:03.989Z,2ZTYZ8toduZdCmuw2fvxpb,Procuro Olvidarte,Aitana,Sus Canciones (Operación Triunfo 2017),197723,False,41
+2025-12-01T16:36:45.578Z,3XdGwGWqBRUwvF4QK49hj2,A Veces,Fyahbwoy,Innadiflames,209266,False,31
+2025-12-01T16:28:35.105Z,4sBIpgWxetCgCFGIxKKWjk,Caminaré (feat. Maka),"Natos y Waor, Maka",Cicatrices,276000,True,52
+2025-12-01T16:23:05.826Z,1Hrucz5n0cjYuPApCk8VkL,Movezz en silencio,Cruz Cafuné,Me Muevo Con Dios,180374,True,63
+2025-12-01T16:21:13.350Z,6zXVgGdE1mh6OEl10kshjE,LUISAViAROMA,"Cruz Cafuné, LaBlackie",Me Muevo Con Dios,193000,True,49
+2025-12-01T16:15:58.297Z,6m8DnCqkHlUfcjXcjOmOu2,4 PREZ,Cruz Cafuné,Me Muevo Con Dios,149484,True,55
+2025-12-01T15:54:31.615Z,51sjjUw21urcdtgD9HzJK6,ABAMA Jr. Suite,"Cruz Cafuné, LEÏTI",Me Muevo Con Dios,165250,True,53
+2025-12-01T15:51:46.689Z,0jcEN9yYRlXrTW3ysrOI0Y,s3_e07_theboondocks_dvdrip.mpeg,Cruz Cafuné,Me Muevo Con Dios,135224,True,51
+2025-12-01T15:48:22.984Z,74Y6PcHH1FU0ZXb34GHbsB,Ja Morant,Cruz Cafuné,Me Muevo Con Dios,193165,True,51
+2025-12-01T15:45:08.077Z,2eOa1UyX6OTLeRvvMG7GGe,FAXXXxxx,Cruz Cafuné,Me Muevo Con Dios,143584,True,48
+2025-12-01T15:41:09.015Z,6m7cwNcYKz8AGOMTaH6xzP,Retro 11s,Cruz Cafuné,Me Muevo Con Dios,194875,True,58
+2025-12-01T15:35:16.233Z,53NZHEKV3oJx2PdEpGBhYg,G WAGON,"Cruz Cafuné, La Pantera",Me Muevo Con Dios,157791,True,54

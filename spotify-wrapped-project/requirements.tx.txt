@@ -1,0 +1,17 @@
+# Core data manipulation
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Spotify API access
+spotipy>=2.23
+
+# Environment variable management
+python-dotenv>=1.0
+
+# Jupyter environment
+jupyterlab>=3.6
+notebook>=6.5
